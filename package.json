@@ -1,0 +1,23 @@
+{
+  "name": "hexlet's first project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helgisax/hexlet-js.git"
+  },
+  "keywords": [
+    "acab"
+  ],
+  "author": "helgisax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helgisax/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/helgisax/hexlet-js#readme"
+}
